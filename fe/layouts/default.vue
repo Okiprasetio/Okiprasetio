@@ -35,22 +35,22 @@ export default {
       sideDrawer: false,
       sideMenu: [
         {
-          icon: "mdi-view-dashboard-outline",
+          icon: "mdi-menu",
           title: "Dashboard",
           to: "/",
         },
         {
-          icon: "mdi-calendar-month-outline",
+          icon: "mdi-calendar",
           title: "Tahun Ajaran",
           to: "/tahun-ajaran",
         },
         {
-          icon: "mdi-account-school-outline",
+          icon: "mdi-school",
           title: "Siswa",
           to: "/siswa",
         },
         {
-          icon: "mdi-credit-card-outline",
+          icon: "mdi-credit-card-scan",
           title: "Pembayaran",
           to: "/pembayaran",
         },
@@ -60,17 +60,17 @@ export default {
           to: "/transaksi",
         },
         {
-          icon: "mdi-receipt-text-outline",
+          icon: "mdi-account-credit-card",
           title: "Tagihan SPP",
           to: "/tagihan-spp",
         },
         {
-          icon: "mdi-widgets-outline",
+          icon: "mdi-code-equal",
           title: "Komponen",
           to: "/komponen",
         },
         {
-          icon: "mdi-list-box-outline",
+          icon: "mdi-credit-card-plus",
           title: "Tagihan Lain",
           to: "/tagihan-lain",
         },
