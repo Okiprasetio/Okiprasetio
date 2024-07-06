@@ -38,12 +38,12 @@
   "main": "nuxt.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anggiirawan13/sistem-informasi-sekolah.git"
+    "url": "git+https://github.com/Okiprasetio/Okiprasetio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anggiirawan13/sistem-informasi-sekolah/issues"
+    "url": "https://github.com/Okiprasetio/Okiprasetio/issues"
   },
-  "homepage": "https://github.com/anggiirawan13/sistem-informasi-sekolah#readme"
+  "homepage": "https://github.com/Okiprasetio/Okiprasetio#readme"
 }
